@@ -3,7 +3,7 @@
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo" alt="abhishek31k" />
+<img align="right" width="250" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo" alt="abhishek31k" />
 
 
 - 🔭 I’m currently working on **Front-End**

@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm ABHISHEK KUMAR YADAV <span color="crimson">B Tech CSE Student | Web Developer | Firebase Enthusiast</span></h3>
+<h3 align="center">Hi 👋, I'm ABHISHEK KUMAR YADAV <span style="color:crimson" >B Tech CSE Student | Web Developer | Firebase Enthusiast</span></h3>
 <img align="center" width="" src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif" alt="abhishek31k" />
 
 

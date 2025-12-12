@@ -34,39 +34,18 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhishek31k&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🚀 Projects
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/seed.png" width="60"/>
+      <img src="https://github.com/Abhishek31k/Abhishek31k/blob/b223bb3999b2c54770ad4089735055ec424185ef/logo-vr.png" width="60"/>
       <h3>Vardan Seeds</h3>
       <p><strong>Seed Production & Management Web App</strong></p>
       <p>
         A complete system for farmer data, field management, and seed production tracking with PHP + MySQL backend.
       </p>
       <a href="https://vardanseeds.fast-page.org/index.php">🔗 Live Project</a>
-    </td>
-
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/web-design.png" width="60"/>
-      <h3>Portfolio Website</h3>
-      <p><strong>Personal Developer Portfolio</strong></p>
-      <p>
-        A modern, responsive portfolio to showcase my projects, skills, and experience.
-      </p>
-      <a href="https://abhishek-kumar-yadav.vercel.app/">🔗 Live Demo</a>
-    </td>
-
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/mobile-app.png" width="60"/>
-      <h3>Attendance App</h3>
-      <p><strong>Flutter + Firebase</strong></p>
-      <p>
-        A mobile attendance tracking app with live location, daily summary reports, and secure user login.
-      </p>
-      <a href="#">🔗 Coming Soon</a>
     </td>
   </tr>
 </table>

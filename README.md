@@ -9,9 +9,8 @@
 - 🔭 I’m currently working on **App-Development**
 - 🌱 I’m currently learning **Pandas**
 - 👯 I’m looking to collaborate on **Backend & API**
-- 🤝 I’m looking for help with **Social Media Dashboard**
 - 👨‍💻 All of my projects are available at [https://abhishek-kumar-yadav.vercel.app/](https://abhishek-kumar-yadav.vercel.app/)
-- 📫 How to reach me **abhishekyadav.elu@gmail.com**
+- 📫 How to reach me **abhishekyadav31k@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1aZSEcoXoQM_RfZzf8zrSmhPM1jGwzqDB/view?usp=drivesdk](https://drive.google.com/file/d/1aZSEcoXoQM_RfZzf8zrSmhPM1jGwzqDB/view?usp=drivesdk)
 - ⚡ Fun fact **My bugs don’t get fixed — they evolve into legendary creatures future developers will fear**
 
@@ -36,3 +35,38 @@
 [![](https://visitcount.itsvg.in/api?id=Abhishek31k&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/seed.png" width="60"/>
+      <h3>Vardan Seeds</h3>
+      <p><strong>Seed Production & Management Web App</strong></p>
+      <p>
+        A complete system for farmer data, field management, and seed production tracking with PHP + MySQL backend.
+      </p>
+      <a href="https://vardanseeds.fast-page.org/index.php">🔗 Live Project</a>
+    </td>
+
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/web-design.png" width="60"/>
+      <h3>Portfolio Website</h3>
+      <p><strong>Personal Developer Portfolio</strong></p>
+      <p>
+        A modern, responsive portfolio to showcase my projects, skills, and experience.
+      </p>
+      <a href="https://abhishek-kumar-yadav.vercel.app/">🔗 Live Demo</a>
+    </td>
+
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/mobile-app.png" width="60"/>
+      <h3>Attendance App</h3>
+      <p><strong>Flutter + Firebase</strong></p>
+      <p>
+        A mobile attendance tracking app with live location, daily summary reports, and secure user login.
+      </p>
+      <a href="#">🔗 Coming Soon</a>
+    </td>
+  </tr>
+</table>

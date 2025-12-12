@@ -26,11 +26,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Abhishek31k&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek31k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhishek31k&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abhishek31k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhishek31k&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm ABHISHEK KUMAR YADAV <span style="color:crimson" >B Tech CSE Student |APP Developer |Web Developer | Firebase Enthusiast</span></h3>
-<img align="center" width="250" src="https://github.com/Abhishek31k/Abhishek31k/blob/b76ccf95b35dc7984e823d81a4641e1e993e365e/Picture1.png" alt="abhishek31k" />
+<img align="right" width="250" src="https://github.com/Abhishek31k/Abhishek31k/blob/b76ccf95b35dc7984e823d81a4641e1e993e365e/Picture1.png" alt="abhishek31k" />
 
 
 <h3 align="center">A passionate frontend developer from India</h3>

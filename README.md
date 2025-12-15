@@ -53,4 +53,15 @@
       <a href="https://vardanseeds.fast-page.org/index.php">🔗 Live Project</a>
     </td>
   </tr>
+   <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/Abhishek31k/Abhishek31k/blob/b223bb3999b2c54770ad4089735055ec424185ef/SRMS.png" width="60"/>
+      <h3>SIR CRR COE</h3>
+      <p><strong>Student Management Web</strong></p>
+      <p>
+        A complete system for student data tracking with PHP + MySQL backend.
+      </p>
+      <a href="https://sircrrengg.page.gd/index.php">🔗 Live Project</a>
+    </td>
+  </tr>
 </table>

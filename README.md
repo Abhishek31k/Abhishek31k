@@ -51,13 +51,13 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="100%">
       <img src="https://img.icons8.com/color/96/flutter.png"/>
       <h3>Farm Utility App</h3>
       <p><strong>Flutter | Firebase</strong></p>
       <p>
-        GPS field measurement, yield estimation,
-        farmer-focused utilities with cloud sync.
+        GPS-based field measurement, yield estimation,
+        and farmer utilities with cloud synchronization.
       </p>
       <a href="#">📂 GitHub Repo</a> | <a href="#">📱 APK</a>
     </td>
@@ -69,6 +69,7 @@
 ## 🚀 Web Projects
 
 <table>
+  <!-- ROW 1 -->
   <tr>
     <td align="center" width="50%">
       <img src="https://github.com/Abhishek31k/Abhishek31k/blob/47525197f5f336558ae890612ac4965f87189d53/vardhan-seeds.png" width="90"/>
@@ -81,23 +82,30 @@
       </p>
       <a href="https://vardanseeds.fast-page.org/index.php">🔗 Live Project</a>
     </td>
+
     <td align="center" width="50%">
       <img src="https://github.com/Abhishek31k/Abhishek31k/blob/6380a6c2f4ed40f98411c7090509c2754e2c6866/SRMS.png" width="90"/>
-      <h3>Farm-Resource-Mangement</h3>
-      <p><strong>Farm-Resource-Mangement</strong></p>
+      <h3>Farm Resource Management</h3>
+      <p><strong>Agri Resource Planning System</strong></p>
       <p>
-        Farm-Resource-Management is a full-stack application designed to efficiently manage agricultural resources, improve farm productivity, and support data-driven decision-making for farmers and agri-organizations.</strong>.
+        Full-stack web application to manage farm resources,
+        crop planning, and production analytics for
+        agri-organizations.
       </p>
-      <a href="https://sircrrengg.page.gd/index.php">🔗 Live Project</a>
+      <a href="#">📂 GitHub Repo</a>
     </td>
-  <br>
-    <td align="center" width="50%">
+  </tr>
+
+  <!-- ROW 2 -->
+  <tr>
+    <td align="center" width="100%" colspan="2">
       <img src="https://github.com/Abhishek31k/Abhishek31k/blob/6380a6c2f4ed40f98411c7090509c2754e2c6866/SRMS.png" width="90"/>
       <h3>SIR CRR COE</h3>
       <p><strong>Student Management Web System</strong></p>
       <p>
-        Student data management platform with authentication
-        and reporting built using <strong>PHP + MySQL</strong>.
+        Student data management platform with authentication,
+        reporting, and structured records built using
+        <strong>PHP + MySQL</strong>.
       </p>
       <a href="https://sircrrengg.page.gd/index.php">🔗 Live Project</a>
     </td>

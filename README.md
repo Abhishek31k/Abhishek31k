@@ -71,7 +71,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/Abhishek31k/Abhishek31k/blob/b223bb3999b2c54770ad4089735055ec424185ef/logo-vr.png" width="90"/>
+      <img src="https://github.com/Abhishek31k/Abhishek31k/blob/47525197f5f336558ae890612ac4965f87189d53/vardhan-seeds.png" width="90"/>
       <h3>Vardan Seeds</h3>
       <p><strong>Seed Production & Management Web App</strong></p>
       <p>
@@ -80,6 +80,15 @@
         <strong>PHP + MySQL</strong>.
       </p>
       <a href="https://vardanseeds.fast-page.org/index.php">🔗 Live Project</a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/Abhishek31k/Abhishek31k/blob/6380a6c2f4ed40f98411c7090509c2754e2c6866/SRMS.png" width="90"/>
+      <h3>Farm-Resource-Mangement</h3>
+      <p><strong>Farm-Resource-Mangement</strong></p>
+      <p>
+        Farm-Resource-Management is a full-stack application designed to efficiently manage agricultural resources, improve farm productivity, and support data-driven decision-making for farmers and agri-organizations.</strong>.
+      </p>
+      <a href="https://sircrrengg.page.gd/index.php">🔗 Live Project</a>
     </td>
     <td align="center" width="50%">
       <img src="https://github.com/Abhishek31k/Abhishek31k/blob/6380a6c2f4ed40f98411c7090509c2754e2c6866/SRMS.png" width="90"/>

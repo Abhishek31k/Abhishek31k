@@ -69,7 +69,7 @@
 ## 🚀 Web Projects
 
 <table>
-  <!-- ROW 1 -->
+  <!-- ROW 1 : TWO PROJECTS SIDE BY SIDE -->
   <tr>
     <td align="center" width="50%">
       <img src="https://github.com/Abhishek31k/Abhishek31k/blob/47525197f5f336558ae890612ac4965f87189d53/vardhan-seeds.png" width="90"/>
@@ -77,28 +77,27 @@
       <p><strong>Seed Production & Management Web App</strong></p>
       <p>
         Agriculture-focused system for farmer records,
-        field management and seed tracking using
+        field management, and seed tracking using
         <strong>PHP + MySQL</strong>.
       </p>
       <a href="https://vardanseeds.fast-page.org/index.php">🔗 Live Project</a>
     </td>
-
     <td align="center" width="50%">
       <img src="https://github.com/Abhishek31k/Abhishek31k/blob/6380a6c2f4ed40f98411c7090509c2754e2c6866/SRMS.png" width="90"/>
       <h3>Farm Resource Management</h3>
       <p><strong>Agri Resource Planning System</strong></p>
       <p>
-        Full-stack web application to manage farm resources,
-        crop planning, and production analytics for
+        Full-stack application to manage farm resources,
+        crop planning, and productivity analytics for
         agri-organizations.
       </p>
       <a href="#">📂 GitHub Repo</a>
     </td>
   </tr>
 
-  <!-- ROW 2 -->
+  <!-- ROW 2 : SINGLE PROJECT FULL WIDTH -->
   <tr>
-    <td align="center" width="100%" colspan="2">
+    <td align="center" colspan="2" width="100%">
       <img src="https://github.com/Abhishek31k/Abhishek31k/blob/6380a6c2f4ed40f98411c7090509c2754e2c6866/SRMS.png" width="90"/>
       <h3>SIR CRR COE</h3>
       <p><strong>Student Management Web System</strong></p>

@@ -1,7 +1,13 @@
 <h3 align="center">Hi 👋, I'm ABHISHEK KUMAR YADAV <span style="color:crimson" >B Tech CSE Student |APP Developer |Web Developer | Firebase Enthusiast</span></h3>
 
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="250" src="https://github.com/Abhishek31k/Abhishek31k/blob/8152f605d77b8b892fbcff5efa250c683df1eaf7/Cloud%20Security%20Market%202020.gif" alt="abhishek31k" />
+<h3 align="center">A passionate software developer</h3>
+<img 
+  align="right"
+  width="250"
+  src="https://github.com/Abhishek31k/Abhishek31k/blob/8152f605d77b8b892fbcff5efa250c683df1eaf7/Cloud%20Security%20Market%202020.gif"
+  alt="abhishek31k"
+  style="border-radius:50%;"
+/>
 
 
 - 🔭 I’m currently working on **App-Development**

@@ -16,13 +16,10 @@
 - 🔭 I’m currently working on **App Development**
 - 🌱 I’m currently learning **Pandas**
 - 👯 I’m looking to collaborate on **Backend & API**
-- 👨‍💻 All of my projects are available at  
-  👉 https://abhishek-kumar-yadav.vercel.app/
-- 📫 How to reach me **abhishekyadav31k@gmail.com**
-- 📄 Know about my experiences  
-  👉 https://drive.google.com/file/d/1aZSEcoXoQM_RfZzf8zrSmhPM1jGwzqDB/view
-- ⚡ Fun fact  
-  **My bugs don’t get fixed — they evolve into legendary creatures future developers will fear**
+- 👨‍💻 Portfolio: https://abhishek-kumar-yadav.vercel.app/
+- 📫 Reach me at **abhishekyadav31k@gmail.com**
+- 📄 Resume: https://drive.google.com/file/d/1aZSEcoXoQM_RfZzf8zrSmhPM1jGwzqDB/view
+- ⚡ Fun fact: **My bugs don’t get fixed — they evolve into legendary creatures**
 
 ---
 
@@ -59,13 +56,12 @@
       <h3>Farm Utility App</h3>
       <p><strong>Flutter | Firebase</strong></p>
       <p>
-        Agriculture-focused mobile app with GPS field measurement,
-        real-time data storage, and farmer utility tools.
+        GPS field measurement, yield estimation,
+        farmer-focused utilities with cloud sync.
       </p>
-      <a href="#">📂 GitHub Repo</a> |
-      <a href="#">📱 APK</a>
+      <a href="#">📂 GitHub Repo</a> | <a href="#">📱 APK</a>
     </td>
-        </tr>
+  </tr>
 </table>
 
 ---
@@ -74,25 +70,24 @@
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github.com/Abhishek31k/Abhishek31k/blob/b223bb3999b2c54770ad4089735055ec424185ef/logo-vr.png" width="100"/>
+    <td align="center" width="50%">
+      <img src="https://github.com/Abhishek31k/Abhishek31k/blob/b223bb3999b2c54770ad4089735055ec424185ef/logo-vr.png" width="90"/>
       <h3>Vardan Seeds</h3>
       <p><strong>Seed Production & Management Web App</strong></p>
       <p>
-        Complete system for farmer data, field management,
-        and seed production tracking using PHP + MySQL.
+        Agriculture-focused system for farmer records,
+        field management and seed tracking using
+        <strong>PHP + MySQL</strong>.
       </p>
       <a href="https://vardanseeds.fast-page.org/index.php">🔗 Live Project</a>
     </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Abhishek31k/Abhishek31k/blob/6380a6c2f4ed40f98411c7090509c2754e2c6866/SRMS.png" width="100"/>
+    <td align="center" width="50%">
+      <img src="https://github.com/Abhishek31k/Abhishek31k/blob/6380a6c2f4ed40f98411c7090509c2754e2c6866/SRMS.png" width="90"/>
       <h3>SIR CRR COE</h3>
-      <p><strong>Student Management Web</strong></p>
+      <p><strong>Student Management Web System</strong></p>
       <p>
-        Student data management system built using PHP + MySQL.
+        Student data management platform with authentication
+        and reporting built using <strong>PHP + MySQL</strong>.
       </p>
       <a href="https://sircrrengg.page.gd/index.php">🔗 Live Project</a>
     </td>

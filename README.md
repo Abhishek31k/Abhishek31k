@@ -104,7 +104,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhishek31k&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=Abhishek31k&row=1&column=6&theme=radical)
 
 ---
 

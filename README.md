@@ -55,7 +55,7 @@
   </tr>
    <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/Abhishek31k/Abhishek31k/blob/b223bb3999b2c54770ad4089735055ec424185ef/SRMS.png" width="60"/>
+      <img src="https://github.com/Abhishek31k/Abhishek31k/blob/6380a6c2f4ed40f98411c7090509c2754e2c6866/SRMS.png" width="60"/>
       <h3>SIR CRR COE</h3>
       <p><strong>Student Management Web</strong></p>
       <p>

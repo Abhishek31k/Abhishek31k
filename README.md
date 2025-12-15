@@ -65,29 +65,7 @@
       <a href="#">📂 GitHub Repo</a> |
       <a href="#">📱 APK</a>
     </td>
-
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/android-os.png"/>
-      <h3>Attendance Manager</h3>
-      <p><strong>Flutter | Local Storage</strong></p>
-      <p>
-        Offline-first mobile application to manage attendance with
-        export and clean UI design.
-      </p>
-      <a href="#">📂 GitHub Repo</a>
-    </td>
-
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/api.png"/>
-      <h3>Weather & Crop Advisory</h3>
-      <p><strong>Flutter | REST API</strong></p>
-      <p>
-        Real-time weather updates and crop recommendations
-        using external APIs for farmers.
-      </p>
-      <a href="#">📂 GitHub Repo</a>
-    </td>
-  </tr>
+        </tr>
 </table>
 
 ---

@@ -3,7 +3,7 @@
   <span style="color:crimson"> UI/UX DEVELOPER | APP Developer | Web Developer </span>
 </h2>
 
-<h3 align="center">A passionate software developer</h3>
+<h3 style="color:red">A passionate software developer</h3>
 
 <img 
   align="right"

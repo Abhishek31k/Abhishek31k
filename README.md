@@ -1,6 +1,6 @@
 <h2 align="center">
   Hi 👋, I'm ABHISHEK KUMAR YADAV 
-  <span style="color:crimson">B Tech CSE Student | APP Developer | Web Developer</span>
+  <span style="color:crimson"> APP Developer | Web Developer |UI/UX DEVELOPER </span>
 </h2>
 
 <h3 align="center">A passionate software developer</h3>

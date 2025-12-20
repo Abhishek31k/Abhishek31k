@@ -130,4 +130,10 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Abhishek31k&color=0)](https://visitcount.itsvg.in)
+<br/>  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=35&pause=1000&color=F77D3E&center=true&vCenter=true&random=false&width=500&height=100&lines=Thanks+for+Visiting+)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=gaddevinay&label=Profile%20views&color=0e75b6&style=flat)
+
+

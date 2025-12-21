@@ -131,9 +131,16 @@
 ---
 
 <br/>  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek31k&theme=high-contrast"/>
 
+
+<br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=35&pause=1000&color=F77D3E&center=true&vCenter=true&random=false&width=500&height=100&lines=Thanks+for+Visiting+Let's+Connect)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=Abhishek31k&label=Profile%20views&color=0e75b6&style=flat)
+--
+
+  
 
 

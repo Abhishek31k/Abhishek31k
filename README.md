@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on **Backend & API**
 - 👨‍💻 Portfolio: https://abhishek-kumar-yadav.vercel.app/
 - 📫 Reach me at **abhishekyadav31k@gmail.com**
-- 📄 Resume: https://drive.google.com/file/d/1aZSEcoXoQM_RfZzf8zrSmhPM1jGwzqDB/view
+- 📄 Resume: https://drive.google.com/file/d/1ZgjDdFDpFNTOnivaLucAtSx_oPtckAIB/view?usp=sharing
 - ⚡ Fun fact: **My bugs don’t get fixed — they evolve into legendary creatures**
 
 ---

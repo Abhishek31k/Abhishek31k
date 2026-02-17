@@ -80,7 +80,7 @@
         field management, and seed tracking using
         <strong>PHP + MySQL</strong>.
       </p>
-      <a href="https://vardanseeds.fast-page.org/index.php">🔗 Live Project</a>
+      <a href="https://srijaagrigenetics.netlify.app/">🔗 Live Project</a>
     </td>
     <td align="center" width="50%">
       <img src="https://github.com/Abhishek31k/Abhishek31k/blob/6380a6c2f4ed40f98411c7090509c2754e2c6866/SRMS.png" width="90"/>
